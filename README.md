@@ -17,3 +17,8 @@
 </ul>
 
 <div align="center">
+
+  <a href="https://www.linkedin.com/in/felipe-rodrigues-de-freitas-677355108/<img src="https://www.svgrepo.com/show/138936/linkedin.svg" target="_blank" width="50"></a></img>
+    <p></p>
+    
+    </div>
