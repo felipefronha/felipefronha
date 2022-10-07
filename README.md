@@ -15,12 +15,3 @@
     <li>Módulo 3: Persistência de dados com Sequelize &#x274C
     <li>Módulo 4: Node.js intermediário, CRUD com Sequelize, cookies e sessões &#x274C
 </ul>
-<div align="center">
-    <p>Contatos</p>
-    <a href="https://www.instagram.com/%22%3E<img src="https://www.svgrepo.com/show/111199/instagram.svg" target="_blank" width="50"></a></img> 
-    &nbsp&nbsp&nbsp&nbsp
-    <a href="https://www.linkedin.com/in/miguel-antonio-uliana-235102252/%22%3E<img src="https://www.svgrepo.com/show/138936/linkedin.svg" target="_blank" width="50"></a></img>
-    <p></p>
-    <p>Estamos a todo vapor, waku waku</p>
-    <img src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif%22%3E</img>
-</div>
