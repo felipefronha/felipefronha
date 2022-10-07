@@ -15,14 +15,6 @@
     <li>Módulo 3: Persistência de dados com Sequelize &#x274C
     <li>Módulo 4: Node.js intermediário, CRUD com Sequelize, cookies e sessões &#x274C
 </ul>
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/felipe-rodrigues-de-freitas-677355108/<img src="https://www.svgrepo.com/show/138936/linkedin.svg" target="_blank" width="50"></a></img>
-    <p></p>
-    
-    </div>
-
 <div align="center">
     <p>Contatos</p>
     <a href="https://www.linkedin.com/in/felipe-rodrigues-de-freitas-677355108/<img src="https://www.svgrepo.com/show/138936/linkedin.svg" target="_blank" width="50"></a></img>
