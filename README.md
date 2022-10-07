@@ -3,7 +3,7 @@
 <h2>Front-end Progress Check</h2>
 
 <ul>
-    <li>Módulo 1: Conhecimentos básicos de HTML e CSS &#x23f3 Progresso 1/4
+    <li>Módulo 1: Conhecimentos básicos de HTML e CSS &#x23f3 Progresso 2/4
     <li>Módulo 2: Introdução ao framework Bootstrap &#x274C
     <li>Módulo 3: Programação estruturada com JavaScript &#x274C
     <li>Módulo 4: Desenvolvimento web com HMTL, CSS e JavaScript &#x274C
